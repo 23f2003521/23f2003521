@@ -108,6 +108,12 @@ system:
 
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/23f2003521/it-s-me-preeti/main/contributions.svg" width="850" alt="Preeti's 3-Year Monthly Contributions" />
+</div>
+
+<br/>
+
 
 <br/>
 
