@@ -70,26 +70,10 @@ system:
 
 <hr/>
 
-### 📈 Core Metrics & Performance
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <!-- Commits & PRs Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=23f2003521&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040308&title_color=ec4899&icon_color=06b6d4&text_color=94a3b8" width="100%" alt="Preeti's GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <!-- Most Used Languages Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f2003521&layout=compact&theme=tokyonight&hide_border=true&bg_color=040308&title_color=ec4899&icon_color=06b6d4&text_color=94a3b8" width="100%" alt="Preeti's Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+
+
 
 <br/>
 
-<div align="center">
-  <!-- Profile Views Counter Widget -->
-  <img src="https://komarev.com/normal-badge/?username=23f2003521&color=ec4899&style=flat-square&label=Console+Accesses" alt="Access views count" />
-</div>
+
