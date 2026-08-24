@@ -1,16 +1,143 @@
-## Hi there 👋
-
-<!--
-**23f2003521/23f2003521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Cyberpunk Premium GitHub Profile README -->
+<div align="center">
+  
+  <!-- Animated SVG Header Banner -->
+  <img src="https://raw.githubusercontent.com/23f2003521/it-s-me-preeti/main/profile-banner.svg" width="800" alt="Preeti Maurya - Techie Baddie Banner" />
+  <br/><br/>
+  
+  <!-- Subtitle Intro -->
+  <p align="center">
+    <strong>✨ Backend Architect • Data Scientist • IIT Madras BS Student ✨</strong><br/>
+    Building scalable database systems, writing clean python scripts, and designing glassmorphic frontends.
+  </p>
+  <!-- Interactive Social Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/preeti-maurya-iitm" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=6366f1" alt="LinkedIn" />
+    </a>
+    <a href="mailto:preetimaurya1004@gmail.com">
+      <img src="https://img.shields.io/badge/Email-preetimaurya1004%40gmail.com-pink?style=for-the-badge&logo=gmail&logoColor=white&color=ec4899" alt="Email" />
+    </a>
+*   ⚡ **Soft skills**: Team Lead (CampusCare), GDG AI/ML On-Campus Lead 2025.
+<hr/>
+### 🛠️ Tech Stack & Arsenal
+<details open>
+<summary><strong>👾 Backend Core & Databases</strong></summary>
+<br/>
+|
+ Technology 
+|
+ Category 
+|
+ Badge 
+|
+|
+:---
+|
+:---:
+|
+:---
+|
+|
+**
+Python
+**
+|
+ Language 
+|
+!
+[
+Python
+](
+https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54
+)
+|
+|
+**
+Django & DRF
+**
+|
+ Framework 
+|
+!
+[
+Django
+<br/>
+|
+ Technology 
+|
+ Category 
+|
+ Badge 
+|
+|
+:---
+|
+:---:
+|
+:---
+|
+|
+**
+Pandas / NumPy
+**
+|
+ Computation 
+|
+!
+[
+Pandas
+](
+https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white
+)
+|
+|
+**
+Scikit-Learn
+**
+|
+ ML Modeling 
+|
+!
+[
+Scikit-Learn
+](
+https://img.shields.io/badge/scikitlearn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white
+)
+|
+|
+**
+OpenCV
+**
+|
+ Computer Vision 
+|
+!
+[
+OpenCV
+](
+https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white
+)
+|
+</details>
+<hr/>
+### 📊 Performance & Analytics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <!-- Commits & PRs Stats Card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=23f2003521&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08070d&title_color=ec4899&icon_color=06b6d4&text_color=94a3b8" width="100%" alt="Preeti's GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <!-- Most Used Languages Card -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f2003521&layout=compact&theme=tokyonight&hide_border=true&bg_color=08070d&title_color=ec4899&icon_color=06b6d4&text_color=94a3b8" width="100%" alt="Preeti's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
+<div align="center">
+  <!-- Profile Views Counter Widget -->
+  <img src="https://komarev.com/normal-badge/?username=23f2003521&color=06b6d4&style=flat-square&label=Console+Accesses" alt="Access views count" />
+</div>
